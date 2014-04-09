@@ -1,7 +1,7 @@
-Test 1Password database for Heatbleeding problems
+Test 1Password database for Heart Bleeding problems
 ============
 
-Test script for SSL Heatbleeding (CVE-2014-0160)
+Test script for 1Password database for SSL Heart Bleeding (CVE-2014-0160)
 
 To test 1Password database export it to local disk. Locate file data.1pif and run in same directory:
 ```
