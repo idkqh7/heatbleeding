@@ -1,4 +1,4 @@
-Test 1Pssword database for Heatbleeding problems
+Test 1Password database for Heatbleeding problems
 ============
 
 Test script for SSL Heatbleeding (CVE-2014-0160)
